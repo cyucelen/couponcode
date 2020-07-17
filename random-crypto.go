@@ -1,5 +1,3 @@
-// +build coupon-crypto
-
 package couponcode
 
 import (
